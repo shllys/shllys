@@ -1,7 +1,7 @@
 <div align="center">
   <h2 align="center">Hola!, soy Mishelis Martinez 👋</h2>
-  <img width="100px" src="https://i.gifer.com/FMuF.gif" align="center" alt="Gif" />
-  <p align="center">🎓 Estudiante Front-End 💻</p>
+  <img width="300px" src="https://i.gifer.com/FMuF.gif" align="center" alt="Gif" />
+  <h4 align="center">🎓 Estudiante Front-End 💻</h4>
 </div>
 
 <img align='right' src="https://media.giphy.com/media/HQHwvSBSy7s0AXOlWt/giphy.gif" width="230">
