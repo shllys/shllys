@@ -1,6 +1,6 @@
 <div align="center">
   <h2 align="center">Hola!, soy Mishelis Martinez 👋</h2>
-  <img width="100px" src="(https://i.gifer.com/FMuF.gif)" align="center" alt="Github Readme Stats" />
+  <img width="100px" src="https://i.gifer.com/FMuF.gif" align="center" alt="Gif" />
   <p align="center">🎓 Estudiante Front-End 💻</p>
 </div>
 
@@ -15,5 +15,5 @@
 |---|---|---|---|---|
 
 ### practico... 🌐
-|  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/figma/figma.png" alt="Figma" width="24">](https://www.figma.com/) |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript" width="24">] 
+|  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/figma/figma.png" alt="Figma" width="24">](https://www.figma.com/) |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript" width="24">] |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/figma/figma.png" alt="figma" width="24">] 
 |---|---|---|---|---|
