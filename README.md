@@ -3,7 +3,7 @@
   <img width="100px" src="[https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg](https://i.gifer.com/FMuF.gif)" align="center" alt="Github Readme Stats" />
   <p align="center">🎓 Estudiante Front-End 💻</p>
 </div>
-### 
+
 <img align='right' src="https://media.giphy.com/media/HQHwvSBSy7s0AXOlWt/giphy.gif" width="230">
 
 <div align="center">
@@ -18,5 +18,5 @@
 
 ### practico... 🌐
 | <img src="./icons/Figma-Dark.svg" width="48">
-| <img src="./icons/JavaScript.svg" width="48">
+|  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap" width="24">](https://getbootstrap.com/) 
 |---|---|---|---|---|
