@@ -11,12 +11,12 @@
 </div>
 
 ### Aprendiendo... 🌐
-| <img src="./icons/Bootstrap.svg" width="48">  
-| <img src="./icons/React-Dark.svg" width="48">
-| <img src="./icons/Git.svg" width="48">
+|  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap" width="24">](https://getbootstrap.com/)   
+|  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React" width="24">](https://es.react.dev/)
+|  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" width="24">](https://git-scm.com/)
 |---|---|---|---|---|
 
 ### practico... 🌐
-| <img src="./icons/Figma-Dark.svg" width="48">
-|  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap" width="24">](https://getbootstrap.com/) 
+|  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/figma/figma.png" alt="Figma" width="24">](https://www.figma.com/)
+|  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="jQuery" width="24">](https://jquery.com/)  
 |---|---|---|---|---|
