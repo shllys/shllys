@@ -1,6 +1,6 @@
 <div align="center">
   <h2 align="center">Hola!, soy Mishelis Martinez 👋</h2>
-  <img align='center' src="https://lamenteesmaravillosa.com/wp-content/uploads/2016/12/ni%C3%B1o-con-lobo.jpg?auto=webp&quality=45&width=1920&crop=16:9,smart,safe" width="300">
+  <img align='center' src="https://lamenteesmaravillosa.com/wp-content/uploads/2016/12/ni%C3%B1o-con-lobo.jpg?auto=webp&quality=45&width=1920&crop=16:9,smart,safe" border-radius="15px" width="400">
   <h4 align="center">🎓 Estudiante Front-End 💻</h4>
 </div>
 
