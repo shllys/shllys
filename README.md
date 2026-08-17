@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Aquí irá el banner que vas a diseñar en Figma (Sube la imagen a tu repositorio y cambia la ruta) -->
-  <img src="[./banner-portfolio.png](https://i.pinimg.com/736x/cf/ce/66/cfce660dfa6642650cf6481dd1f2b0ba.jpg)" alt="Mishelis Martinez Banner" width="100%">
+  <img src="https://i.pinimg.com/736x/cf/ce/66/cfce660dfa6642650cf6481dd1f2b0ba.jpg" alt="Mishelis Martinez Banner" width="100%">
 
   <h1>👋 ¡Hola! Soy Mishelis Y. Martínez Robinson</h1>
   <p><strong>Web Developer Jr. & UI Designer</strong> basada en Caracas, Venezuela</p>
